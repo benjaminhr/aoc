@@ -46,5 +46,3 @@ function solution2() {
 
     return allContainedPairs;
 }
-
-console.log(solution2());
